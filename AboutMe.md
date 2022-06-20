@@ -1,8 +1,7 @@
 # About Me
+
 ### Hey, I'm Vlady! 👋
 I'm 26 and living in **Hamburg**.
-
-Diving into Web Development
 
 My [LinkedIn profile](https://de.linkedin.com/in/vladyslav-nyzhashchyy-023780162) :rocket:
 
@@ -14,7 +13,7 @@ My [LinkedIn profile](https://de.linkedin.com/in/vladyslav-nyzhashchyy-023780162
 - snowboarding
 - coding
 
-### Learning right now:
+### Diving into Web Development:
 
 1. html
 2. css
