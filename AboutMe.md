@@ -21,3 +21,9 @@ My [LinkedIn profile](https://de.linkedin.com/in/vladyslav-nyzhashchyy-023780162
 3. javascript
 
 
+```javascript 
+  const name = vlady;
+  let age = 25;
+  const loving = [food, travelling, surfing, snowboarding, coding];
+  const learning = [html, css, javascript];
+```
