@@ -5,8 +5,8 @@
 ```javascript 
   const name = vlady;
   let age = 26;
-  const loving = [food, travelling, surfing, snowboarding, coding];
-  const learning = [html, css, javascript];
+  let loving = [food, travelling, surfing, snowboarding, coding];
+  let learning = [html, css, javascript];
 ```
 
 My [LinkedIn profile](https://de.linkedin.com/in/vladyslav-nyzhashchyy-023780162) :rocket:
