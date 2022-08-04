@@ -4,7 +4,7 @@
 
 ```javascript 
   const name = vlady;
-  let age = 26;
+  let age = 27;
   const loving = [food, travelling, surfing, snowboarding, coding];
   const learning = [html, css, javascript];
 ```
