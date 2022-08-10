@@ -11,3 +11,5 @@
 
 My [LinkedIn profile](https://de.linkedin.com/in/vladyslav-nyzhashchyy-023780162) :rocket:
 
+[![Vlady's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gw3i)](https://github.com/anuraghazra/github-readme-stats)
+
