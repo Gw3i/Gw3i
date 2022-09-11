@@ -6,7 +6,7 @@
 const name = vlady;  
 let age = 27;
 const loving = [coding, food, travelling, surfing, snowboarding];
-const techStack = ['html', 'css', 'javascript', 'react', 'Node.js', 'Next.js', Styled-components, 'MongoDB', 'Git Workflow'];
+const techStack = ['html', 'css', 'javascript', 'react', 'Node.js', 'Next.js', Styled-components, 'zustand.js', 'jest', 'Testing-Library', 'MongoDB', 'Git + GitHub Workflow', 'Agile Workflow'];
 ```
 
 My [LinkedIn profile](https://de.linkedin.com/in/vladyslav-nyzhashchyy-023780162) :rocket:
