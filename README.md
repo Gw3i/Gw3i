@@ -3,10 +3,10 @@
 
 ## Hey, I'm Vlady! 👋<br><br>
 ```javascript
-const name = vlady;  
+const name = 'Vlady';  
 let age = 27;
-const loving = [coding, food, travelling, surfing, snowboarding];
-const techStack = ['html', 'css', 'javascript', 'react', 'Node.js', 'Next.js', 'vue.js', Styled-components, 'zustand.js', 'jest', 'Testing-Library', 'MongoDB', 'Bootstrap', 'Agile Workflow'];
+const loving = ['coding', 'food', 'travelling', 'surfing', 'snowboarding'];
+const techStack = ['html', 'css', 'javascript', 'React', 'Node.js', 'Next.js', 'vue.js', Styled-components, 'zustand.js', 'jest', 'Testing-Library', 'MongoDB', 'Bootstrap', 'Agile Workflow'];
 ```
 
 My [LinkedIn profile](https://de.linkedin.com/in/vladyslav-nyzhashchyy-023780162) :rocket:
