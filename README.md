@@ -5,7 +5,7 @@
 ```javascript
 const name = 'Vlady';  
 let age = 27;
-const loving = ['coding', 'food', 'travelling', 'surfing', 'snowboarding'];
+const loving = ['coding', 'food', 'travelling', 'surfing', 'snowboarding', skateboarding];
 const techStack = ['html', 'css', 'javascript', 'React', 'Node.js', 'Next.js', 'vue.js', Styled-components, 'zustand.js', 'jest', 'Testing-Library', 'MongoDB', 'Bootstrap', 'Agile Workflow'];
 ```
 
