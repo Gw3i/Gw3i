@@ -4,7 +4,7 @@
 ## Hey, I'm Vlady! 👋<br><br>
 ```javascript
 const name = 'Vlady';  
-let age = 27;
+let age = 28;
 const loving = ['coding', 'food', 'travelling', 'surfing', 'snowboarding', 'skateboarding'];
 const techStack = ['html', 'css/scss', 'javascript', 'React', 'Angular', 'Node.js', 'Next.js', 'vue.js', Styled-components, 'zustand.js', 'jest', 'Testing-Library', 'MongoDB', 'Bootstrap', 'Agile Workflow'];
 ```
