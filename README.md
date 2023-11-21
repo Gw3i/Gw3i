@@ -6,10 +6,10 @@
 const name = 'Vlady';  
 let age = 28;
 const loving = ['coding', 'food', 'travelling', 'surfing', 'snowboarding', 'skateboarding'];
-const techStack = ['html', 'css/scss', 'javascript', 'React', 'Angular', 'Node.js', 'Next.js', 'vue.js', Styled-components, 'zustand.js', 'jest', 'Testing-Library', 'MongoDB', Tailwind, 'Bootstrap', 'Agile Workflow'];
+const techStack = ['HTML', 'CSS/SASS', 'JavaScript', 'Angular', 'React', 'Node.js', 'Next.js', 'SQL', 'NoSQL', 'Jest', 'Testing-Library', 'Tailwind', 'Bootstrap', 'Agile Workflow'];
 ```
 
-My [LinkedIn profile](https://de.linkedin.com/in/vladyslav-nyzhashchyy-023780162) :rocket:
+[LinkedIn](https://de.linkedin.com/in/vladyslav-nyzhashchyy-023780162) :rocket:
 
 
 
